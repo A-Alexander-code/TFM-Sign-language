@@ -2,4 +2,6 @@
 /dataset
 /Logs
 /models
+/model_experimentation
 05_test_real_time.ipynb
+experimentos.xlsx
